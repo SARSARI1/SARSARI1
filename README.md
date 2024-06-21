@@ -96,6 +96,6 @@ I enjoy participating in hackathons and coding competitions. When I'm not coding
 - **Stock & Invoicing Management | C++**: Implemented a stock and invoicing management system.
 - **Library Management | MySQL**: Built a library management system.
 
-![Profile views](https://gpvc.arturio.dev/SARSARI1)
+
 
 Feel free to explore my repositories and connect with me on LinkedIn!
