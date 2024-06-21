@@ -31,7 +31,7 @@ I am **Kaoutar SARSARI**, an aspiring software engineer currently in my second y
 
 ### 📈 GitHub Stats
 
-![Kaoutar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
+![Kaoutar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SARSARI1&show_icons=true&theme=radical)
 
 ### 📫 How to reach me:
 
