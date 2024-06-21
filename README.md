@@ -57,17 +57,24 @@ I enjoy participating in hackathons and coding competitions. When I'm not coding
 
 ---
 
-### Projects & Experience
+### 📝 Projects & Experience
 
-**Sales Representative Trainee | September 2022**  
-**9ofast Start-Up Team Leader | June 2022**  
-**2ST Team Leader | March 2022**  
-**Animatrice OSD | May 2023**  
-**Bremen Impact Summit | May 2021**  
-**LEAGACY LEAVERS Team Member | October 2020**  
-**HultPrize | Third Place at ENSA Khouribga 2021**
+- **Sales Representative Trainee | September 2022**  
+  ![Sales](https://img.shields.io/badge/-Sales-black?style=flat-square&logo=salesforce)
+- **9ofast Start-Up Team Leader | June 2022**  
+  ![Startup](https://img.shields.io/badge/-Startup-black?style=flat-square&logo=startup)
+- **2ST Team Leader | March 2022**  
+  ![Team](https://img.shields.io/badge/-Team-black?style=flat-square&logo=teams)
+- **Animatrice OSD | May 2023**  
+  ![OSD](https://img.shields.io/badge/-Open_Source_Days-black?style=flat-square&logo=opensourceinitiative)
+- **Bremen Impact Summit | May 2021**  
+  ![Bremen](https://img.shields.io/badge/-Bremen-black?style=flat-square&logo=bremen)
+- **LEAGACY LEAVERS Team Member | October 2020**  
+  ![Legacy](https://img.shields.io/badge/-Legacy-black?style=flat-square&logo=legacy)
+- **HultPrize | Third Place at ENSA Khouribga 2021**  
+  ![HultPrize](https://img.shields.io/badge/-HultPrize-black?style=flat-square&logo=hult-prize)
 
-### Education
+### 🎓 Education
 
 **Ecole Nationale des Sciences Appliquées, Khouribga**  
 *Software Engineering*  
@@ -77,7 +84,7 @@ I enjoy participating in hackathons and coding competitions. When I'm not coding
 *Baccalaureate in Physical Science - with honors*  
 *2017 - 2020*
 
-### Skills
+### 🛠️ Skills
 
 - **Programming Languages:** Java, C, C++, PHP, JavaScript, HTML, CSS
 - **Frameworks & Tools:** Laravel, Bootstrap, Merise, UML, Jdbc, MySQL, Balsamiq, Swing, JavaFX, React, Spring Boot, Android Studio
@@ -87,7 +94,7 @@ I enjoy participating in hackathons and coding competitions. When I'm not coding
 - **Server Administration:** Linux server administration with Fedora
 - **Languages:** English (Fluent), French (Professional), Arabic (Native), Tamazight (Native)
 
-### Notable Projects
+### 🌟 Notable Projects
 
 - **Student Management | C**: Developed a student management system.
 - **Academic Project Management | Java**: Managed academic projects.
@@ -95,7 +102,6 @@ I enjoy participating in hackathons and coding competitions. When I'm not coding
 - **Expert System | Advanced Algorithms and Data Structures**: Developed an expert system application.
 - **Stock & Invoicing Management | C++**: Implemented a stock and invoicing management system.
 - **Library Management | MySQL**: Built a library management system.
-
 
 
 Feel free to explore my repositories and connect with me on LinkedIn!
