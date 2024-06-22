@@ -6,6 +6,7 @@
 I am **Kaoutar SARSARI**, an aspiring software engineer currently in my second year of studying software engineering at ENSA Khouribga. I am passionate about developing innovative software solutions and continuously expanding my knowledge in the field of computer science. I am currently seeking a two-month application internship in the field of computer science, either in July or August.
 
 ### 🛠️ Technologies & Tools
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SARSARI1&layout=compact)
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
