@@ -1,12 +1,18 @@
-# Welcome to KAOUTAR SARSARI GitHub Profile!
+# 👋 Welcome to Kaoutar Sarsari's GitHub Profile!
+
 ![Profile Views](https://komarev.com/ghpvc/?username=SARSARI1)
 
-## Hi there! 👋
+## 👩‍💻 About Me
 
-I am **Kaoutar SARSARI**, an aspiring software engineer currently in my third year of studying software engineering at ENSA Khouribga. I am passionate about developing innovative software solutions and continuously expanding my knowledge in the field of computer science. I am currently seeking a six-month  internship in the field of computer science, sartring from Feb 2025.
+Hi! I'm **Kaoutar Sarsari**, a recent Software Engineering graduate from ENSA Khouribga, passionate about building meaningful, efficient, and scalable software solutions. I love tackling challenges, learning continuously, and contributing to impactful projects — both inside and outside the classroom.
 
-### 🛠️ Technologies & Tools
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SARSARI1&layout=compact)
+Currently, I'm working as a **Research Assistant at Oracle** and actively exploring new opportunities where I can grow, collaborate, and innovate. I'm particularly interested in software engineering, backend systems, and intelligent applications.
+
+I'm looking for a **6-month internship starting February 2025**, where I can bring value, learn from experienced professionals, and push my technical and creative boundaries.
+
+---
+
+## ⚙️ Technologies & Tools
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
@@ -14,37 +20,53 @@ I am **Kaoutar SARSARI**, an aspiring software engineer currently in my third ye
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-black?style=flat-square&logo=tcpip)
-![OSI Model](https://img.shields.io/badge/-OSI_Model-black?style=flat-square&logo=osi)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-black?style=flat-square&logo=spring)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Android Studio](https://img.shields.io/badge/-Android_Studio-black?style=flat-square&logo=android)
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-black?style=flat-square&logo=machine-learning)
-![Deep Learning](https://img.shields.io/badge/-Deep_Learning-black?style=flat-square&logo=deep-learning)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-black?style=flat-square&logo=scikit-learn)
 ![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle)
+![Oracle APEX](https://img.shields.io/badge/-Oracle_APEX-black?style=flat-square&logo=oracle)
+![PL/SQL](https://img.shields.io/badge/-PL/SQL-black?style=flat-square&logo=oracle)
+![utPLSQL](https://img.shields.io/badge/-utPLSQL-black?style=flat-square&logo=oracle)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-black?style=flat-square&logo=android)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-black?style=flat-square&logo=scikit-learn)
+![Deep Learning](https://img.shields.io/badge/-Deep_Learning-black?style=flat-square&logo=keras)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira)
+![Confluence](https://img.shields.io/badge/-Confluence-black?style=flat-square&logo=confluence)
 
-### 📈 GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 ![Kaoutar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SARSARI1&show_icons=true&theme=radical)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SARSARI1&show_icons=true&locale=en&layout=compact" alt="SARSARI1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SARSARI1&show_icons=true&locale=en" alt="SARSARI1" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SARSARI1&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SARSARI1&" alt="SARSARI1" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SARSARI1&)
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=SARSARI1)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SARSARI1" alt="SARSARI1" /></a> </p>
-### 📫 How to reach me:
+---
 
-- [LinkedIn](https://www.linkedin.com/in/kaoutar-sarsari)
+## 🌱 Extracurricular Involvement
 
+Beyond code, I’m passionate about **public speaking, leadership, and community engagement**. From leading student initiatives to organizing impactful tech events, these experiences have shaped me into a proactive communicator and team player — even when the work doesn’t show up on a CV.
 
-Feel free to explore my repositories and connect with me on LinkedIn!
+---
+
+## 📫 Get in Touch
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kaoutar-sarsari)
+- 📧 Feel free to explore my repositories and connect with me!
+
+---
+
+✨ Thanks for stopping by!
