@@ -4,11 +4,8 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Kaoutar Sarsari**, a recent Software Engineering graduate from ENSA Khouribga, passionate about building meaningful, efficient, and scalable software solutions. I love tackling challenges, learning continuously, and contributing to impactful projects — both inside and outside the classroom.
+Hi! I'm **Kaoutar Sarsari**, a recent Software Engineering graduate from ENSA Khouribga, passionate about building meaningful, efficient, and scalable software solutions. I love tackling challenges, learning continuously, and contributing to impactful projects both inside and outside the classroom.
 
-Currently, I'm working as a **Research Assistant at Oracle** and actively exploring new opportunities where I can grow, collaborate, and innovate. I'm particularly interested in software engineering, backend systems, and intelligent applications.
-
-I'm looking for a **6-month internship starting February 2025**, where I can bring value, learn from experienced professionals, and push my technical and creative boundaries.
 
 ---
 
