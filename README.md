@@ -1,66 +1,144 @@
-# 👋 Welcome to Kaoutar Sarsari's GitHub Profile!
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=SARSARI1)
+# 👋 Hey there, I'm Kaoutar 
 
-## 👩‍💻 About Me
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║    🚀 Software Engineer | PhD Researcher | @LaSTI       ║
+║                                                           ║
+║   "Be like onions! 🧅 Keep growing in all conditions"   ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-Hi! I'm **Kaoutar Sarsari**, a recent Software Engineering graduate from ENSA Khouribga, passionate about building meaningful, efficient, and scalable software solutions. I love tackling challenges, learning continuously, and contributing to impactful projects both inside and outside the classroom.
+[![Profile Views](https://komarev.com/ghpvc/?username=SARSARI1&color=FF6B6B&style=flat-square)](https://github.com/SARSARI1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaoutar-sarsari)
+[![Email](https://img.shields.io/badge/Email-FF6B6B?style=flat-square&logo=gmail&logoColor=white)](mailto:kaoutarsarsari@gmail.com)
 
+</div>
 
 ---
 
-## ⚙️ Technologies & Tools
+## 🎯 About Me
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-black?style=flat-square&logo=spring)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle)
-![Oracle APEX](https://img.shields.io/badge/-Oracle_APEX-black?style=flat-square&logo=oracle)
-![PL/SQL](https://img.shields.io/badge/-PL/SQL-black?style=flat-square&logo=oracle)
-![utPLSQL](https://img.shields.io/badge/-utPLSQL-black?style=flat-square&logo=oracle)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![Android Studio](https://img.shields.io/badge/-Android_Studio-black?style=flat-square&logo=android)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-black?style=flat-square&logo=scikit-learn)
-![Deep Learning](https://img.shields.io/badge/-Deep_Learning-black?style=flat-square&logo=keras)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira)
-![Confluence](https://img.shields.io/badge/-Confluence-black?style=flat-square&logo=confluence)
+I'm a **Software Engineer** who just graduated from ENSA Khouribga (2025) and now I'm diving into a **PhD journey as a researcher at @LaSTI**. 
+
+Like the onion 🧅 from our Berber proverb — I continue to grow and develop in all conditions, constantly learning, evolving, and pushing boundaries. I believe in **positive energy, never giving up**, and bringing smiles to every challenge.
+
+---
+
+## 🔬 Currently
+
+📚 **PhD Researcher** @ LaSTI  
+🌟 Exploring cutting-edge solutions in software architecture and systems  
+💡 Bridging the gap between **engineering excellence** and **academic rigor**
+
+---
+
+## 💻 Technical Arsenal
+
+```
+┌─────────────────────────────────────────────────────────┐
+│ Languages        │ Java • C • C++ • PHP • Python        │
+│ Web Tech         │ JavaScript • TypeScript • HTML • CSS │
+│ Frameworks       │ Laravel • Spring Boot • React        │
+│ Databases        │ MySQL • Oracle • MongoDB • PL/SQL    │
+│ Tools & DevOps   │ Docker • Git • Linux • Figma • Jira  │
+│ Specialties      │ Full-Stack • ML/DL • System Design   │
+└─────────────────────────────────────────────────────────┘
+```
+
+**Languages:** 🇹🇦 Tamazight • 🇸🇦 Arabic • 🇬🇧 English • 🇫🇷 French
+
+---
+
+## 🌟 What Drives Me
+
+✨ **Positive Mindset & Smiling Magic** — I spread positivity because happiness fuels creativity  
+🚀 **Never Giving Up** — Challenges don't scare me; they inspire me  
+🧅 **Continuous Growth** — Like onions, I thrive in all conditions  
+💡 **Creative Problem Solving** — Building elegant solutions to complex problems  
+🎤 **Sharing Knowledge** — Public speaking & mentoring are my passion  
+
+---
+
+## 🎨 Beyond Code
+
+- ✍️ Poetry writer on [KILMA](https://kilma.app/@Kaoutar_Sarsari)
+- 🎨 Graphic designer & creative enthusiast
+- 🏆 Entrepreneur at heart (Hult Prize, FRTN Incubation)
+- 📢 Community leader (Open Source Days, MDS Talks)
+
+---
+
+## 🏆 Achievements
+
+```
+🥉 Hult Prize Competition — 3rd Place
+🎖️ FRTN Technologies Incubation Program
+📍 Deputy Campus Director — Hult Prize
+🎬 Vice Chief of Conference — Open Source Days 12.0
+👥 Team Leader — MDS Talks Season 2
+💼 Research Assistant — Oracle
+```
+
+---
+
+## 🎯 My Philosophy
+
+> **"Code is poetry. Research is discovery. Life is a journey of growth."**
+
+I believe in:
+- 🌱 **Learning without limits** — No boundaries to what we can achieve
+- 💪 **Resilience** — Challenges are just opportunities in disguise
+- 🤝 **Collaboration** — Great things happen when great minds come together
+- ✨ **Excellence** — Every line of code, every idea deserves care and attention
 
 ---
 
 ## 📊 GitHub Stats
 
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SARSARI1&)
+![GitHub Streak](https://streak-stats.demolab.com?user=SARSARI1&theme=radical&background=0D1117&ring=FF6B6B&fire=FFB86C)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=SARSARI1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SARSARI1&layout=compact&theme=radical)
 
----
-
-## 🌱 Extracurricular Involvement
-
-Beyond code, I’m passionate about **public speaking, leadership, and community engagement**. From leading student initiatives to organizing impactful tech events, these experiences have shaped me into a proactive communicator and team player — even when the work doesn’t show up on a CV.
+</div>
 
 ---
 
-## 📫 Get in Touch
+## 🤍 A Little Note For You
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kaoutar-sarsari)
-- 📧 Feel free to explore my repositories and connect with me!
+```c
+if (youCameThatMuchFar()) {
+    printf("Beautiful human being, thank you for stopping by… 🙌\n");
+    printf("Be happy, keep growing, and have an amazing day! 💖\n");
+}
+```
 
 ---
 
-✨ Thanks for stopping by!
+## 🌐 Let's Connect
+
+<div align="center">
+
+| Connect | Link |
+|---------|------|
+| 💼 LinkedIn | [kaoutar-sarsari](https://www.linkedin.com/in/kaoutar-sarsari) |
+| 📧 Email | kaoutarsarsari@gmail.com |
+| 📖 Poetry | [KILMA Profile](https://kilma.app/@Kaoutar_Sarsari) |
+| 🌍 Portfolio | [sarsari1.github.io](https://sarsari1.github.io/sarsarikaoutar.github.io/) |
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ *Thanks for visiting my GitHub! May your code be clean and your bugs be few.* ✨
+
+© **Kaoutar Sarsari** 2025 • Growing like onions 🧅
+
+</div>
