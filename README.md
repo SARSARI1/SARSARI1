@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hey, I'm Kaoutar  
-### 🧅 *"Be like onions — grow in all conditions"*
+### 🧅 *"Be like onions grow in all conditions"*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Software+Engineer;PhD+Researcher+%40+LaSTI;Full-Stack+Developer;Problem+Solver;Always+Learning)](https://git.io/typing-svg)
 
