@@ -54,8 +54,8 @@ I turn coffee into code, spread positive energy, and believe every bug is a feat
 ![Following](https://img.shields.io/badge/dynamic/json?color=blue&label=Following&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsarsari1&style=for-the-badge)
 ![Gists](https://img.shields.io/badge/dynamic/json?color=blue&label=Gists&query=public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsarsari1&style=for-the-badge)
 
-<!-- Top languages (alternative mirror of github-readme-stats) -->
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sarsari1&layout=compact&theme=radical&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SARSARI1&layout=compact&theme=radical&hide_border=true&title_color=FF6B6B)](https://github.com/SARSARI1)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sarsari1&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -68,7 +68,6 @@ I turn coffee into code, spread positive energy, and believe every bug is a feat
 [![LinkedIn](https://img.shields.io/badge/-Kaoutar_Sarsari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaoutar-sarsari)
 [![Email](https://img.shields.io/badge/-kaoutarsarsari@gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaoutarsarsari@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FFB86C?style=for-the-badge&logo=vercel&logoColor=black)](https://sarsari1.github.io/sarsarikaoutar.github.io/)
-[![Poetry](https://img.shields.io/badge/-My_Poetry-9B59B6?style=for-the-badge&logo=bookstack&logoColor=white)](https://kilma.app/@Kaoutar_Sarsari)
 
 </div>
 
