@@ -51,8 +51,6 @@ I turn coffee into code, spread positive energy, and believe every bug is a feat
 <!-- Dynamic badges from GitHub API (always work) -->
 ![Public Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsarsari1&style=for-the-badge)
 ![Followers](https://img.shields.io/badge/dynamic/json?color=blue&label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsarsari1&style=for-the-badge)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SARSARI1&layout=compact&theme=radical&hide_border=true&title_color=FF6B6B)](https://github.com/SARSARI1)
-[![trophy](https://github-profile-trophy.vercel.app/?username=sarsari1&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
