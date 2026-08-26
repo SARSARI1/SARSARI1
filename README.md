@@ -1,135 +1,68 @@
 <div align="center">
 
-# 👋 Hey there, I'm Kaoutar 
+# 👋 Hey, I'm Kaoutar  
+### 🧅 *"Be like onions — grow in all conditions"*
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║    🚀 Software Engineer | PhD Researcher | @LaSTI       ║
-║                                                           ║
-║   "Be like onions! 🧅 Keep growing in all conditions"   ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Software+Engineer;PhD+Researcher+%40+LaSTI;Full-Stack+Developer;Problem+Solver;Always+Learning)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SARSARI1&color=FF6B6B&style=flat-square)](https://github.com/SARSARI1)
+[![Profile Views](https://komarev.com/ghpvc/?username=SARSARI1&color=FF6B6B&style=flat-square&label=👀+Profile+Views)](https://github.com/SARSARI1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaoutar-sarsari)
 [![Email](https://img.shields.io/badge/Email-FF6B6B?style=flat-square&logo=gmail&logoColor=white)](mailto:kaoutarsarsari@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFB86C?style=flat-square&logo=vercel&logoColor=black)](https://sarsari1.github.io/sarsarikaoutar.github.io/)
 
 </div>
 
 ---
 
-## 🎯 About Me
+### 🚀 About Me  
+I'm a **Software Engineer** (ENSA Khouribga, 2025) and now a **PhD Researcher at LaSTI**.  
+I turn coffee into code, spread positive energy, and believe every bug is a feature in disguise. 🧅✨
 
-I'm a **Software Engineer** who just graduated from ENSA Khouribga (2025) and now I'm diving into a **PhD journey as a researcher at @LaSTI**. 
-
-Like the onion 🧅 from our Berber proverb — I continue to grow and develop in all conditions, constantly learning, evolving, and pushing boundaries. I believe in **positive energy, never giving up**, and bringing smiles to every challenge.
-
----
-
-## 🔬 Currently
-
-📚 **PhD Researcher** @ LaSTI  
-🌟 Exploring cutting-edge solutions in software architecture and systems  
-💡 Bridging the gap between **engineering excellence** and **academic rigor**
+**Currently exploring:** cutting-edge software architecture & research.
 
 ---
 
-## 💻 Technical Arsenal
-
-```
-┌─────────────────────────────────────────────────────────┐
-│ Languages        │ Java • C • C++ • PHP • Python        │
-│ Web Tech         │ JavaScript • TypeScript • HTML • CSS │
-│ Frameworks       │ Laravel • Spring Boot • React        │
-│ Databases        │ MySQL • Oracle • MongoDB • PL/SQL    │
-│ Tools & DevOps   │ Docker • Git • Linux • Figma • Jira  │
-│ Specialties      │ Full-Stack • ML/DL • System Design   │
-└─────────────────────────────────────────────────────────┘
-```
-
-**Languages:** 🇹🇦 Tamazight • 🇸🇦 Arabic • 🇬🇧 English • 🇫🇷 French
-
----
-
-## 🌟 What Drives Me
-
-✨ **Positive Mindset & Smiling Magic** — I spread positivity because happiness fuels creativity  
-🚀 **Never Giving Up** — Challenges don't scare me; they inspire me  
-🧅 **Continuous Growth** — Like onions, I thrive in all conditions  
-💡 **Creative Problem Solving** — Building elegant solutions to complex problems  
-🎤 **Sharing Knowledge** — Public speaking & mentoring are my passion  
+### ⚡ Tech Stack  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🎨 Beyond Code
-
-- ✍️ Poetry writer on [KILMA](https://kilma.app/@Kaoutar_Sarsari)
-- 🎨 Graphic designer & creative enthusiast
-- 🏆 Entrepreneur at heart (Hult Prize, FRTN Incubation)
-- 📢 Community leader (Open Source Days, MDS Talks)
-
----
-
-## 🏆 Achievements
-
-```
-🥉 Hult Prize Competition — 3rd Place
-🎖️ FRTN Technologies Incubation Program
-📍 Deputy Campus Director — Hult Prize
-🎬 Vice Chief of Conference — Open Source Days 12.0
-👥 Team Leader — MDS Talks Season 2
-💼 Research Assistant — Oracle
-```
-
----
-
-## 🎯 My Philosophy
-
-> **"Code is poetry. Research is discovery. Life is a journey of growth."**
-
-I believe in:
-- 🌱 **Learning without limits** — No boundaries to what we can achieve
-- 💪 **Resilience** — Challenges are just opportunities in disguise
-- 🤝 **Collaboration** — Great things happen when great minds come together
-- ✨ **Excellence** — Every line of code, every idea deserves care and attention
-
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats  
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SARSARI1&theme=radical&background=0D1117&ring=FF6B6B&fire=FFB86C)
+![Kaoutar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SARSARI1&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=FF6B6B&icon_color=FFB86C)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SARSARI1&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SARSARI1&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FFB86C)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SARSARI1&layout=compact&theme=radical&hide_border=true&title_color=FF6B6B)](https://github.com/SARSARI1)
 
 </div>
 
 ---
 
-## 🤍 A Little Note For You
-
-```c
-if (youCameThatMuchFar()) {
-    printf("Beautiful human being, thank you for stopping by… 🙌\n");
-    printf("Be happy, keep growing, and have an amazing day! 💖\n");
-}
-```
-
----
-
-## 🌐 Let's Connect
+### 🌍 Let's Connect  
 
 <div align="center">
 
-| Connect | Link |
-|---------|------|
-| 💼 LinkedIn | [kaoutar-sarsari](https://www.linkedin.com/in/kaoutar-sarsari) |
-| 📧 Email | kaoutarsarsari@gmail.com |
-| 📖 Poetry | [KILMA Profile](https://kilma.app/@Kaoutar_Sarsari) |
-| 🌍 Portfolio | [sarsari1.github.io](https://sarsari1.github.io/sarsarikaoutar.github.io/) |
+[![LinkedIn](https://img.shields.io/badge/-Kaoutar_Sarsari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaoutar-sarsari)
+[![Email](https://img.shields.io/badge/-kaoutarsarsari@gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaoutarsarsari@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FFB86C?style=for-the-badge&logo=vercel&logoColor=black)](https://sarsari1.github.io/sarsarikaoutar.github.io/)
+[![Poetry](https://img.shields.io/badge/-My_Poetry-9B59B6?style=for-the-badge&logo=bookstack&logoColor=white)](https://kilma.app/@Kaoutar_Sarsari)
 
 </div>
 
@@ -137,8 +70,8 @@ if (youCameThatMuchFar()) {
 
 <div align="center">
 
-### ✨ *Thanks for visiting my GitHub! May your code be clean and your bugs be few.* ✨
-
-© **Kaoutar Sarsari** 2025 • Growing like onions 🧅
+### ✨ Thanks for stopping by!  
+*May your code be clean and your bugs few*  
+🧅 **Keep growing!**
 
 </div>
