@@ -70,8 +70,6 @@ I'm a Software Engineer (ENSA Khouribga, 2025) working across the **full stack**
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SARSARI1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF" alt="Kaoutar's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARSARI1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="Top languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SARSARI1&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B" alt="GitHub streak stats" />
 
