@@ -80,7 +80,6 @@ I'm a Software Engineer (ENSA Khouribga, 2025) working across the **full stack**
 
 </div>
 
-> 💡 Stats cards, top languages and streak are rendered live by external badge services (github-readme-stats / streak-stats), so their look and numbers stay in sync automatically — no more mismatched badge styles.
 
 ---
 
